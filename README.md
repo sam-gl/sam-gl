@@ -1,4 +1,4 @@
-Hello! My name is Sam, I work on experimental open source software and hardware projects. If you're interested, take a look at the 🧪 Lab93 website @ https://lab93.io.
+Hello! My name is Sam, sometimes I work on experimental open source software and hardware projects. If you're interested, take a look at my site @ https://sam.gl
 
 
 
